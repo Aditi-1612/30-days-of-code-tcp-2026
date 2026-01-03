@@ -1,6 +1,6 @@
 Aditi Sharma <br>
 Mining Engineering <br>
-Roll no:25121004
+Roll no:25121004 <br>
 DAY 1
 <img width="1717" height="992" alt="image" src="https://github.com/user-attachments/assets/1ec5427e-0ec9-460e-934f-f639be25defe" />
 <img width="1715" height="909" alt="image" src="https://github.com/user-attachments/assets/7488aa14-1049-4d20-993b-f2c741413d71" />
